@@ -43,10 +43,11 @@ into silence.
 
 Then, the world went white.
 
-Quincy lay sprawled in a daze, ears ringing, slumped against upturned drums.
-Under his hands, he felt fine grains, like sand. Over him stood the security
-android, his pale green eyes reflected in its cold, black faceplate, its rifle
-at the ready. At this distance, another concussive bolt could be lethal.
+Quincy lay sprawled in a daze against upturned drums, ears ringing, mask in
+pieces. Under his hands, he felt fine grains, like sand. Over him stood the
+security android, his pale green eyes reflected in its cold, black faceplate,
+its rifle at the ready. At this distance, another concussive bolt could be
+lethal.
 
 "You are trespassing on priv..."
 
@@ -59,7 +60,18 @@ they were touching. Which was entirely useless against beings without auras,
 such as Grimm or security androids.
 
 Unless channeled through Dust. Through Dust, an aura acquired some of the
-Dust's properties- which he'd discovered when trying to replenish his only
+Dust's properties- which he'd discovered when trying to replenish his, only
 to be singed by sudden flames. Judging by the shorted-out robot standing above
 him, it must be yellow Dust on which he lay. His pinkie finger still rested
 against it's cold, metal boot.
+
+Torchwick, Cinder, and dozens of mask-clad White Fang mulled under an overcast
+night sky, occasionally impatiently glancing at the Schnee processing
+facility's loading dock, until- with the whine of electric motors and the
+clinking of chains- the array bay doors all began to rise. Standing in a
+door frame at the far end stood Quincy, whole but looking worse for wear.
+
+"Well, kid" started Torchwick, in his typical condescending musical tone,
+"looks like you had a bit of fun while we were waiting. Why don't you take a
+seat? We'll take over from here." He turned to address the others. "Remember,
+take anything that's not bolted down! We need every ounce of Dust we can find!"
