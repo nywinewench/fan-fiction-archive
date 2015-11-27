@@ -1,10 +1,10 @@
 The guard moaned softly before collapsing onto the floor. He wasn't dead, but
 when he awoke hours later, he'd have what felt like one hell of a hangover.
 That's why Quincy had volunteered as the operation's locksmith. They were one
-of the few who could- and would- manage without actually killing anybody. They
-systematically patted the guard's pockets until finding and swiping the needed
-security key-card. Soon, she would grant their brethren access and the
-operation could begin.
+of the few who could&mdash; and would&mdash; manage without actually killing
+anybody. They systematically patted the guard's pockets until finding and
+swiping the needed security key-card. Soon, she would grant their brethren
+access and the operation could begin.
 
 Ironic, Quincy thought, rising. A semblance that was almost useless for
 aspiring huntsmen against Grimm was so incredibly effective against humans.
@@ -24,16 +24,18 @@ Damn! Damn damn damn. Their skeletal silhouettes were just visible via the
 faint backlight of various electronics, their smells intertwined with those of
 the processing machinery. The Schnees were really upping they security presence
 if they were willing to shell out for Atlas security androids. Quincy couldn't
-pause for the androids' simultaneous monotone monologues to conclude- training
-told them the androids' rifles would already be raising. They drew their sword
-from the sheath on their back and pointed it at the nearest android.
+pause for the androids' simultaneous monotone monologues to conclude&mdash;
+training told them the androids' rifles would already be raising. They drew
+their sword from the sheath on their back and pointed it at the nearest
+android.
 
-Lacuna- Quincy's sword, held in a wood-patterned sheath that hung magnetized
-across their back. Modeled after a Han _jian_, its thin, double-edged blade
-extended three feet from an ornate but diminutive guard. Its pommel was a
-revolver-like barrel and hammer, capped below by ornate loops from which hung
-twin celadon tassels. Against the threaded grip lay the hammer's trigger and
-trigger-guard, and around the trigger, Quincy's index finger squeezed tightly.
+Lacuna&mdash; Quincy's sword, held in a wood-patterned sheath that hung
+magnetized across their back. Modeled after a Han _jian_, its thin,
+double-edged blade extended three feet from an ornate but diminutive guard. Its
+pommel was a revolver-like barrel and hammer, capped below by ornate loops from
+which hung twin celadon tassels. Against the threaded grip lay the hammer's
+trigger and trigger-guard, and around the trigger, Quincy's index finger
+squeezed tightly.
 
 The hammer cocked backwards, the pommel-barrel turned, and the hammer dropped.
 In a heartbeat, Lacuna's blade exploded forward, extending in segments across
@@ -74,23 +76,23 @@ In a sheen of arcing electricity and golden sparks, the robot came to an abrupt
 and unexpected halt. Quincy let out a deep breath they hadn't realized they'd
 been holding.
 
-Aura-transfer- Quincy's semblance. Against a human, they could drain an aura
-like a cold beer on a mid-summer day. Or, if needed, they could transfer some
-back- so long as they were touching. Which was entirely useless against beings
-without auras, such as Grimm or security androids.
+Aura-transfer&mdash; Quincy's semblance. Against a human, they could drain an
+aura like a cold beer on a mid-summer day. Or, if needed, they could transfer
+some back&mdash; so long as they were touching. Which was entirely useless
+against beings without auras, such as Grimm or security androids.
 
 Unless channeled through Dust. Through Dust, an aura acquired some of the
-Dust's properties- which they'd discovered when trying to replenish their own,
-only to be singed by sudden flames. Judging by the shorted-out robot standing
-above them, it must be yellow Dust on which they lay. Quincy's pinkie finger
-still rested against the androids cold, metal boot.
+Dust's properties&mdash; which they'd discovered when trying to replenish their
+own, only to be singed by sudden flames. Judging by the shorted-out robot
+standing above them, it must be yellow Dust on which they lay. Quincy's pinkie
+finger still rested against the androids cold, metal boot.
 
 Torchwick, Cinder, and dozens of mask-clad White Fang mulled under an overcast
 night sky, backgrounded by numerous Bullhead aircraft, their engines tilted and
 glowing on standby. Occasionally, Torchwick or another would glance impatiently
-at the Schnee processing facility's loading dock, until- with the hum of
-mechanical motors and the clinking of chains- the array of bay doors all began
-rising. In a door frame at the far end leaned Quincy, battered but whole.
+at the Schnee processing facility's loading dock, until&mdash; with the hum of
+mechanical motors and the clinking of chains&mdash; the array of bay doors all
+began rising. In a door frame at the far end leaned Quincy, battered but whole.
 
 "Well, kid" started Torchwick in his typically condescending musical tone,
 "looks like you had a bit of fun while we were waiting and waiting. Take a seat
@@ -100,19 +102,19 @@ hurried in unison into the building, carts in tow, trucks following closely
 behind.
 
 Quincy hissed under their breath. They didn't trust Torchwick farther than
-Lacuna could strike. Why were the White Fang working with- working _for_- that
-disgusting human? How did this possibly advance their cause? If Quincy's
-superiors- and they still trusted them- had an explanation, they certainly
-hadn't proffered it.
+Lacuna could strike. Why were the White Fang working with&mdash; working
+_for_&mdash; that disgusting human? How did this possibly advance their cause?
+If Quincy's superiors&mdash; and they still trusted them&mdash; had an
+explanation, they certainly hadn't proffered it.
 
 Quincy headed towards the loading ramp of the nearest Bullhead, stopping to
 assess their reflection in the window of a Schnee cargo truck. Their usually
 straight, bistre hair was matted twistedly to their olive skin. Their open,
 black Zhongshan jacket and white undershirt were caked with sweat and yellow
 dust, obscuring the embroidery they favored. And, of course, their Grimm mask-
-the modern symbol of the White Fang- was missing, destroyed. At least Lacuna
-faired well. They'd take time to clean her properly while the others worked,
-lest the invasive dust cause any undesired effects.
+the modern symbol of the White Fang&mdash; was missing, destroyed. At least
+Lacuna faired well. They'd take time to clean her properly while the others
+worked, lest the invasive dust cause any undesired effects.
 
 It was some hours later when Quincy was awakened, Lacuna and a polishing cloth
 in their lap, by the sound of their returning brethren. A trail of carts and
