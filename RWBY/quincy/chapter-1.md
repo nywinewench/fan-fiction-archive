@@ -3,7 +3,7 @@ when he awoke hours later, he'd have what felt like one hell of a hangover.
 That's why Quincy had volunteered as the operation's locksmith. They were one
 of the few who could&mdash; and would&mdash; manage without actually killing
 anybody. They systematically patted the guard's pockets until finding and
-swiping the needed security key-card. Soon, she would grant their brethren
+swiping the needed security key-card. Soon, they would grant their brethren
 access and the operation could begin.
 
 Ironic, Quincy thought, rising. A semblance that was almost useless for
@@ -41,20 +41,20 @@ The hammer cocked backwards, the pommel-barrel turned, and the hammer dropped.
 In a heartbeat, Lacuna's blade exploded forward, extending in segments across
 six, twelve, eighteen feet along thin cable. A shower of sparks indicated that
 the android had been hit, but the blue-white glow of it's still-charging rifle
-proved the strike non-lethal. Quincy snapped her arm whip-like and released the
-trigger, more sparks flew, and the entire pommel mechanism spun wildly, reeling
-in the collapsible cable, reassembling the sword segments at the hilt. The two
-halves of the android's body, sawed cleanly through the middle, hit the metal
-floor with resounding _thunks_, it's unfinished monologue trailing into
+proved the strike non-lethal. Quincy snapped their arm whip-like and released
+the trigger, more sparks flew, and the entire pommel mechanism spun wildly,
+reeling in the collapsible cable, reassembling the sword segments at the hilt.
+The two halves of the android's body, sawed cleanly through the middle, hit the
+metal floor with resounding _thunks_, it's unfinished monologue trailing into
 silence.
 
 Quincy dropped into a full split as two blue-white concussive bolts narrowly
 passed overhead. Such energy weapons took time to recharge between shots, so-
-only two androids must remain. Sensing motion in her periphery, she exited the
-split in a forward tumble, raising her sword arm, firing again. As the blade
-segmented, she tugged the hilt horizontally, first to one side, then the other,
-and was rewarded by the head of the second android rolling independently across
-the floor.
+only two androids must remain. Sensing motion in their periphery, Quincy exited
+the split in a forward tumble, raising their sword arm, firing again. As the
+blade segmented, they tugged the hilt horizontally, first to one side, then the
+other, and were rewarded by the head of the second android rolling
+independently across the floor.
 
 Where was the third? Quincy glanced wildly to each side, standing cautiously.
 Nested in this machinery, against machinery, Quincy was practically blind.
@@ -65,10 +65,10 @@ The world went white.
 
 Quincy lay sprawled in a daze against upturned drums, ears ringing, Grimm mask
 scattered in pieces across the floor. Under their hands they felt fine,
-sand-like grains. Over her towered the final security android, Quincy's orange
-eyes reflected in its blank black faceplate, its rifle aimed and charging. It'd
-been some time since Quincy had felt a concussive bolt. They knew at this range
-that another could be lethal.
+sand-like grains. Over Quincy towered the final security android, Quincy's
+orange eyes reflected in its blank black faceplate, its rifle aimed and
+charging. It'd been some time since Quincy had felt a concussive bolt. They
+knew at this range that another could be lethal.
 
 "You are trespassing on priv..."
 
@@ -76,7 +76,7 @@ In a sheen of arcing electricity and golden sparks, the robot came to an abrupt
 and unexpected halt. Quincy let out a deep breath they hadn't realized they'd
 been holding.
 
-Aura-transfer&mdash; Quincy's semblance. Against a human, they could drain an
+Aura-siphoning&mdash; Quincy's semblance. Against a human, they could drain an
 aura like a cold beer on a mid-summer day. Or, if needed, they could transfer
 some back&mdash; so long as they were touching. Which was entirely useless
 against beings without auras, such as Grimm or security androids.
@@ -84,22 +84,24 @@ against beings without auras, such as Grimm or security androids.
 Unless channeled through Dust. Through Dust, an aura acquired some of the
 Dust's properties&mdash; which they'd discovered when trying to replenish their
 own, only to be singed by sudden flames. Judging by the shorted-out robot
-standing above them, it must be yellow Dust on which they lay. Quincy's pinkie
-finger still rested against the androids cold, metal boot.
+standing above Quincy, it must be yellow Dust on which they lay. Quincy's
+pinkie finger still rested against the androids cold, metal boot.
 
-Torchwick, Cinder, and dozens of mask-clad White Fang mulled under an overcast
-night sky, backgrounded by numerous Bullhead aircraft, their engines tilted and
-glowing on standby. Occasionally, Torchwick or another would glance impatiently
-at the Schnee processing facility's loading dock, until&mdash; with the hum of
-mechanical motors and the clinking of chains&mdash; the array of bay doors all
-began rising. In a door frame at the far end leaned Quincy, battered but whole.
+Roman Torchwick, in his signature white coat and bowler hat, Cinder Fall, in a
+scarlet tunic laced with golden dust lines, and dozens of mask-clad White Fang
+mulled under an overcast night sky. Numerous Bullhead aircraft backgrounded the
+group, their engines tilted and glowing on standby. Occasionally, Torchwick or
+another would glance impatiently at the Schnee processing facility's loading
+dock, until&mdash; with the hum of mechanical motors and the clinking of
+chains&mdash; the array of bay doors all began rising. In a door frame at the
+far end leaned Quincy, battered but whole.
 
 "Well, kid" started Torchwick in his typically condescending musical tone,
-"looks like you had a bit of fun while we were waiting and waiting. Take a seat
-and let the grown-ups take over from here." He turned to address the others.
-"Go! Remember, anything not bolted down is ours!" The mass of White Fang
-hurried in unison into the building, carts in tow, trucks following closely
-behind.
+"looks like you had a bit of fun while we were waiting... and waiting. Have a
+seat and let the grown-ups take over from here." He turned to address the
+others.  "Go! Remember, anything not bolted down is ours!" The mass of White
+Fang hurried in unison into the building, carts in tow, trucks following
+closely behind.
 
 Quincy hissed under their breath. They didn't trust Torchwick farther than
 Lacuna could strike. Why were the White Fang working with&mdash; working
